@@ -1,0 +1,4 @@
+{
+    "testRepo": "css-box-model-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
